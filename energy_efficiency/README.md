@@ -4,7 +4,7 @@ Compare different algorithms for energy efficiency prediction.
 
 # Data sources:
 
-This project uses the Glass Identification dataset from UCI:
+This project uses the Energy Efficiency dataset from UCI:
 
 https://archive.ics.uci.edu/ml/datasets/energy+efficiency
 

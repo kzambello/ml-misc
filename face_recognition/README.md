@@ -5,7 +5,7 @@ head-pose classification (left, right, straight, up) and eye-occlusion detection
 
 # Data sources:
 
-This project uses the CMU faces dataset from UCI:
+This project uses the CMU Face Images dataset from UCI:
 
 https://archive.ics.uci.edu/ml/datasets/cmu+face+images
 
