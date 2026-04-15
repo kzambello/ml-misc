@@ -2,7 +2,7 @@
 
 Compare different algorithms for forensic glass identification.
 
-# Data sources:
+# Data sources
 
 This project uses the Glass Identification dataset from UCI:
 
