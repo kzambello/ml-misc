@@ -1,6 +1,6 @@
 # Energy efficiency
 
-Compare different algorithms for energy efficiency prediction.
+Compare different regression models for energy efficiency prediction.
 
 # Data sources
 

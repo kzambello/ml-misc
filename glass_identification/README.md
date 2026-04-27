@@ -1,6 +1,6 @@
 # Glass identification
 
-Compare different algorithms for forensic glass identification.
+Compare different classification algorithms for forensic glass identification.
 
 # Data sources
 

@@ -1,6 +1,6 @@
 # Wind forecast
 
-Forecast wind power output using ARIMA models and LSTM networks.
+Forecast offshore wind power production using ARIMA and LSTM models.
 
 # Data sources
 
