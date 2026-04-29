@@ -18,3 +18,7 @@ Repository of miscellaneous ml projects.
 
    Forecast offshore wind power production using ARIMA and LSTM models.
 
+5. **Exoplanet**:
+
+   Answer natural-language questions about NASA's exoplanet dataset using flan-t5 and a simple RAG system that retrieves relevant records ranked by Jaccard similarity.
+
