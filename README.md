@@ -20,5 +20,5 @@ Repository of miscellaneous ml projects.
 
 5. **Exoplanet**:
 
-   Answer natural-language questions about NASA's exoplanet dataset using flan-t5 and a simple RAG system that retrieves relevant records ranked by Jaccard similarity.
+   Answer natural-language questions about NASA's exoplanet dataset using flan-t5 and a simple RAG system that retrieves relevant records ranked by Jaccard similarity or LoRA fine-tuning.
 
