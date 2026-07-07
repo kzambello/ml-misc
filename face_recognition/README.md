@@ -1,7 +1,6 @@
 # Face recognition
 
-Develop a convolutional neural network (CNN) for face recognition that performs gender classification (male, female),
-head-pose classification (left, right, straight, up) and eye-occlusion detection (wearing sunglasses, not wearing sunglasses).
+Develop a convolutional neural network (CNN) for face recognition that performs multi-attribute classification (gender, head-pose and eye-occlusion).
 
 # Data sources
 

@@ -2,3 +2,9 @@
 __pycache__
 experimental
 *.zip
+*.arff
+*.keras
+*_keras
+*.onnx
+*.joblib
+best_threshold

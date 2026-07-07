@@ -1,8 +1,6 @@
 # Exoplanet
 
-Answer natural-language questions about NASA's exoplanet dataset using flan-t5 and
-a simple RAG system that retrieves relevant records ranked by Jaccard similarity
-or LoRA fine-tuning.
+Answer natural-language questions about NASA's exoplanet dataset using flan-t5 and either a simple RAG system or LoRA fine-tuning.
 
 # Data sources
 
