@@ -1,6 +1,6 @@
 # Exoplanet
 
-Answer natural-language questions about NASA's exoplanet dataset using flan-t5 and either a simple RAG system or LoRA fine-tuning.
+Develop a question-answering system for NASA's exoplanet dataset using a tool-augmented LLM agent, after evaluating RAG and LoRA fine-tuning approaches.
 
 # Data sources
 

@@ -6,6 +6,8 @@ Develop an autoencoder model for credit card fraud detection and deploy it as a 
 
 This project uses the Credit Card Fraud Detection dataset:
 
+https://www.openml.org/search?type=data&sort=runs&id=1597&status=active
+
 https://www.openml.org/search?type=data&sort=runs&id=42175&status=active
 
 Relevant papers
